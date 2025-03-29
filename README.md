@@ -4,10 +4,6 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
-
-
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Mi nombre es: Malena Celeste Fernández Mansilla, me dicen Celes. 
+- Vivo en Villa Tesei
+- Tengo una hija, un perro y 3 gatos
